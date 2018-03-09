@@ -1,0 +1,6 @@
+[warn] C:\Users\culi\Desktop\de lucru CA\SDEV4Lab2Play-modif pornit\app\views\login.scala.html:10:28: method globalError in class Form is deprecated: see corresponding Javadoc for more information.
+[warn]                 @loginForm.globalError.message;
+[warn]                            ^
+[warn] one warning found
+[info] C:\Users\culi\Desktop\de lucru CA\versiunea3\SDEV4-CA1\app\controllers\HomeController.java: Some input files use unchecked or unsafe operations.
+[info] C:\Users\culi\Desktop\de lucru CA\versiunea3\SDEV4-CA1\app\controllers\HomeController.java: Recompile with -Xlint:unchecked for details.
